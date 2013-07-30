@@ -36,3 +36,9 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'turbolinks'
+
+gem 'devise'
+
+gem 'simple_form'
