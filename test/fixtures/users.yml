@@ -3,3 +3,8 @@ Michael:
   first_name: "michael"
   last_name: "mentessi"
   email: "michael@email.com"
+
+Dave:
+  first_name: "Dave"
+  last_name: "jones"
+  email: "dave@email.com"

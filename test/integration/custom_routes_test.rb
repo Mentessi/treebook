@@ -18,4 +18,9 @@ class CustomRoutesTest < ActionDispatch::IntegrationTest
 		assert_response :success
 	end
 
+	test "that we can view a profile page" do 
+		get '/munch'
+		assert_response :success
+	end
+
 end
