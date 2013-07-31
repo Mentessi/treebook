@@ -7,6 +7,11 @@ gem 'rails', '3.2.14'
 
 group :development, :test do 
 	gem 'sqlite3'
+	gem 'shoulda'
+end
+
+group :test do 
+	gem 'shoulda'
 end
 
 group :production do 
